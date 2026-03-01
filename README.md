@@ -1,7 +1,7 @@
 # Invisible_cloth
 Real-time Invisible Cloak effect using Python and OpenCV that replaces a colored cloth with the background to create a seamless invisibility illusion. Beginner-friendly computer vision project demonstrating color detection, masking, and real-time video processing.
 
-# 🧥 Invisible Cloak (Python + OpenCV)
+# 🧥 Invisible Cloak
 
 A real-time **Invisible Cloak effect** built using Python and OpenCV.
 This project detects a specific cloth color (teal/blue) and replaces it with the background, creating a Harry Potter-style invisibility illusion.
