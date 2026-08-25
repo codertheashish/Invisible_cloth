@@ -36,7 +36,7 @@ pip install opencv-python numpy
 Clone your repository:
 
 ```bash
-https://github.com/codertheashish/Invisible_cloth
+https://github.com/codertheashish/Invisible_cloth.git
 ```
 
 ---
