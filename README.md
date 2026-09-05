@@ -49,7 +49,7 @@ https://github.com/codertheashish/Invisible_cloth.git
 * Capture an empty background image and save it as:
 
 ```
-image.jpg
+image.jpeg
 ```
 
 ### Step 2: Run the Script
