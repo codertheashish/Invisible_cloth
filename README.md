@@ -7,11 +7,11 @@ This project detects a specific cloth color (teal/blue) and replaces it with the
 
 ## 🚀 Features
 
-✅ Real-time webcam processing
-🎯 Detects teal/blue cloak color accurately
-🧼 Mask cleaning to remove noise & halos
-🪄 Smooth invisibility effect
-💻 Beginner-friendly OpenCV project
+✅ Real-time webcam processing<br>
+🎯 Detects teal/blue cloak color accurately<br>
+🧼 Mask cleaning to remove noise & halos<br>
+🪄 Smooth invisibility effect<br>
+💻 Beginner-friendly OpenCV project<br>
 
 ---
 
@@ -70,7 +70,7 @@ Press **Q** to quit.
 
 ## 📁 Output
 
-✔ Real-time invisibility effect
+✔ Real-time invisibility effect<br>
 ✔ Background replaces cloak area
 
 ---
